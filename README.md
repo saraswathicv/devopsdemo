@@ -13,6 +13,11 @@ Find the Line containing “PasswordAuthentication” parameter and change its v
      PasswordAuthentication yes
 In Jenkins job  configuration mention node label under Restrict where this project can be run
 
+Add Git Installations as below under Global Tool configuration of Jenkins
+      
+      Name: Default
+ 	Path to Git executable:/usr/bin/git
+
 Add Maven Installations as below under Global Tool configuration of Jenkins
       
       Name: MavenHome
