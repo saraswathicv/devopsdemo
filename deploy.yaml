@@ -24,9 +24,9 @@
          artifact_id: helloworld
          extension: war
          version: "5.2"
-         repository_url: 'http://IP:8081/artifactory/helloworld'
+         repository_url: 'http://13.233.225.189:8081/artifactory/helloworld'
          username: admin
-         password: PASSWD
+         password: Wipro@123
          dest: '/home/ubuntu/apache-tomcat-8.5.50/webapps/helloworld.war'
 
 
