@@ -84,7 +84,7 @@ sh startup.sh
 
 go to the folder where custom tomcat-users.xml, context.xml files present 
 
-cp tomcat-users.xml /home/ubuntu/apache-tomcat-8.5.50/tomcat-users.xml
+cp tomcat-users.xml /home/ubuntu/apache-tomcat-8.5.50/conf/tomcat-users.xml
 cp context.xml /home/ubuntu/apache-tomcat-8.5.50/webapps/manager/META-INF/context.xml
 
 ========
