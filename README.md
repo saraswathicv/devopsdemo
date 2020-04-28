@@ -1,3 +1,6 @@
+similar content is avaiable in below lnk
+https://medium.com/@khandelwal12nidhi/ci-cd-with-jenkins-and-ansible-e9163d4a6e82
+
 # devopsdemo on 21st Jan 2019
 
 This Excercise will be carried over ubuntu tlarge or txlarge ec2 machine
